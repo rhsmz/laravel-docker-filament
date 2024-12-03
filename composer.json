@@ -8,6 +8,7 @@
         "php": "^8.2",
         "filament/filament": "^3.2",
         "guzzlehttp/guzzle": "^7.2",
+        "illuminate/database": "*",
         "laravel/framework": "^11.0",
         "laravel/tinker": "^2.9"
     },
